@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a submission for Micromouse](https://github.com/PolyEd/MicroMouse)
 
-- 🌱 I’m currently learning about **Arraymancer and Neural Networks**
+<!-- - 🌱 I’m currently learning about **idk** -->
 
 - 💬 Ask me about **Nim**
 
